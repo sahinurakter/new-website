@@ -70,13 +70,12 @@ height: 450px;width: 100%
     border-radius: 10px;
 }
 .o{
-    display: flex;
-margin: 50px; justify-content:space-around;}
+    display: flex; justify-content:space-around;}
 .r{
     text-align: center;
 }
 .s{
-    height: 100px;width: 280px;
+    height: 200px; width: 900px;
 }
 .q{
     margin: 50px;}
