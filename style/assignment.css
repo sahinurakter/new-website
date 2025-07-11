@@ -48,8 +48,7 @@ height: 450px;width: 100%
 .j{
     text-align: center;
 }
-.k{
-    font-size: 40px;
+.k{font-size: 40px;
     font-weight: bold;
     color: #4E47FF;
 }
@@ -61,4 +60,36 @@ height: 450px;width: 100%
     margin: 50px;
     background-color: mediumslateblue;
     padding: 10px 40px;
+}
+.p{
+    display: flex;
+    margin: 5px;
+}
+.im{
+    border: none;
+    border-radius: 10px;
+}
+.o{
+    display: flex;
+margin: 50px; justify-content:space-around;}
+.r{
+    text-align: center;
+}
+.s{
+    height: 100px;width: 280px;
+}
+.q{
+    margin: 50px;}
+.ce{
+    text-align: center;
+}
+.web{
+    border-radius: 30px;
+    height: 200px; width: 400px;
+}
+.ce nav{
+    gap: 5px;
+}
+.pic{
+    border-radius: 50px;
 }
