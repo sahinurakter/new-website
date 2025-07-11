@@ -1,0 +1,30 @@
+.a{
+    color: #4E47FF;
+    margin: 0px 50px;
+    font-weight: bold;
+}
+.b{
+    color: #FFFFFF;
+    background-color: #4E47FF;
+    margin: 0px 50px;
+    padding: 12px 35px;border-radius: 10px;
+    border: none;
+}
+.c{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.d{
+    text-align: center;
+    margin: 100px 50px;
+}
+.e{
+    font-weight: bold;
+    font-size: 40px;
+}
+header{
+    background-image: url(../../../../../AppData/Local/Temp/ec554676-ef14-4a2b-8bd1-9e39121c5dc8_B12A01-landing-launchpad-main.zip.dc8/B12A01-landing-launchpad-main/Assets/Hero-bg.png);
+height: 450px;width: 100%
+
+}
