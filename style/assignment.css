@@ -43,4 +43,22 @@ height: 450px;width: 100%
 .g{
     height: 200px; width: 200px;
      border-radius:10px ;
+
+}
+.j{
+    text-align: center;
+}
+.k{
+    font-size: 40px;
+    font-weight: bold;
+    color: #4E47FF;
+}
+.i{
+    display: flex;
+    justify-content: space-around;
+}
+.l{
+    margin: 50px;
+    background-color: mediumslateblue;
+    padding: 10px 40px;
 }
