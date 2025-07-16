@@ -31,9 +31,8 @@
     font-size: 40px;
 }
 header{
-    background-image: url(../../../../../AppData/Local/Temp/ec554676-ef14-4a2b-8bd1-9e39121c5dc8_B12A01-landing-launchpad-main.zip.dc8/B12A01-landing-launchpad-main/Assets/Hero-bg.png);
+    background-image:url("../Assets/Hero-bg.png");
 height: 450px;width: 100%
-
 }
 .f{
     display: flex;
@@ -93,7 +92,8 @@ height: 450px;width: 100%
     border-radius: 50px;
 }
 .t{
-    display: flex; margin: 50px;
+    display: flex;
+ margin: 50px;
     justify-content: space-between;
 }
 .bo{
